@@ -1,7 +1,7 @@
 # This is demo that shows how an acutal database works.
 
 # name: David uche
-# website: https://daviduche03.github.io/daviduche03/
+# website: https://daviduche03.github.io
 
 # Email: daviduche176@gmail.com
 
